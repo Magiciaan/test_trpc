@@ -1,0 +1,22 @@
+{
+  "name": "test_t3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.16.2",
+    "@trpc/client": "^10.34.0",
+    "@trpc/server": "^10.34.0",
+    "@types/bcrypt": "^5.0.0",
+    "bcrypt": "^5.1.0",
+    "prisma": "^5.0.0",
+    "ts-node": "^10.9.1",
+    "zod": "^3.21.4"
+  }
+}
